@@ -104,7 +104,7 @@ I have hands-on experience integrating blockchain applications on the frontend, 
 
 ---
 
-## 🌐 Production Applications
+## 🌐 Production Web Applications
 
 - **Firedates — Social Media Platform**  
   *React • TypeScript • Tailwind CSS • Stripe*  
