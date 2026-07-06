@@ -23,60 +23,82 @@ I have hands-on experience integrating blockchain applications on the frontend, 
 
 # 🛠 Tech Stack
 
-## Languages
+<table>
+<tr>
+<td valign="top" width="33%">
 
-* HTML5
-* CSS3
-* JavaScript (ES6+)
-* TypeScript
+## Languages
+- HTML5  
+- CSS3  
+- JavaScript (ES6+)  
+- TypeScript  
+
+</td>
+
+<td valign="top" width="33%">
 
 ## Frontend
+- React.js  
+- Next.js *(Personal Projects)*  
+- Tailwind CSS  
+- ShadCN UI  
+- DaisyUI  
+- GSAP  
 
-* React.js
-* Next.js *(Personal Projects)*
-* Tailwind CSS
-* ShadCN UI
-* DaisyUI
-* GSAP
+</td>
+
+<td valign="top" width="33%">
 
 ## Web3 Frontend
+- Wagmi  
+- Reown AppKit  
+- Ethers.js  
+- Wallet Authentication  
+- Smart Contract Integration  
+- Reading & Writing Contract Data  
+- Transaction Handling  
+- Blockchain Events  
 
-* Wagmi
-* Reown AppKit
-* Ethers.js
-* Wallet Authentication
-* Smart Contract Integration
-* Reading & Writing Smart Contract Data
-* Transaction Handling
-* Blockchain Event Handling
+</td>
+</tr>
+
+<tr>
+<td valign="top">
 
 ## Libraries & APIs
+- Axios  
+- TanStack Query  
+- Stripe Integration  
 
-* Axios
-* TanStack Query
-* Stripe Payment Integration
+</td>
+
+<td valign="top">
 
 ## Code Quality
+- ESLint  
+- Prettier  
+- Biome  
+- Husky  
+- Lefthook  
 
-* ESLint
-* Prettier
-* Biome
-* Husky
-* Lefthook
+</td>
+
+<td valign="top">
 
 ## Tools
+- Git  
+- GitHub  
+- GitHub Desktop  
+- Fork  
+- VS Code  
+- Postman  
+- Vercel  
+- Zoho Projects  
+- Lark  
 
-* Git
-* GitHub
-* GitHub Desktop
-* Fork
-* Visual Studio Code
-* Postman
-* Vercel
-* Zoho Projects
-* Lark
-
----
+</td>
+</tr>
+</table>
 
 # 💼 Professional Experience
 
