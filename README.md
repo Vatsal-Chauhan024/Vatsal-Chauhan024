@@ -100,129 +100,64 @@ I have hands-on experience integrating blockchain applications on the frontend, 
 </tr>
 </table>
 
-# 💼 Professional Experience
-
-### React Frontend Developer
-
-**Experience:** **2 Years**
-
-Worked on multiple production-grade applications across different industries including:
-
-* Social Media Platforms
-* AI-Based Land Registration Systems
-* Web3 Member Portals
-* Web3 Admin Dashboards
-* DAO Platforms
-* E-Commerce Applications
-* Trading Platforms
-* Interactive Landing Pages
-
-### Responsibilities
-
-* Developed scalable React applications using TypeScript.
-* Built reusable and maintainable UI components.
-* Integrated REST APIs using Axios and TanStack Query.
-* Implemented Stripe payment workflows.
-* Integrated blockchain functionality using Wagmi and Ethers.js.
-* Implemented wallet authentication using Reown AppKit.
-* Connected frontend applications with deployed smart contracts.
-* Handled blockchain transactions and contract interactions.
-* Improved application performance and maintainability.
-* Collaborated with designers, backend developers, QA teams, and project managers in Agile environments.
-
----
-
 # 🚀 Featured Projects
 
-## 🔹 Firedates — Social Media Platform
+---
 
-**Tech:** React • TypeScript • Tailwind CSS • Stripe
+## 🌐 Production Applications
 
-Production-grade social media application featuring Stripe payment integration, a point-based engagement system, and responsive UI for users primarily in Germany.
+- **Firedates — Social Media Platform**  
+  *React • TypeScript • Tailwind CSS • Stripe*  
+  Production-grade social media application featuring Stripe payment integration, engagement system, and responsive UI for users primarily in Germany.  
+  🔗 https://app.firedates.com/dashboard/de  
 
-🔗 https://app.firedates.com/dashboard/de
+- **AI Land Registration System**  
+  *React • TypeScript • Tailwind CSS*  
+  AI-powered platform with PDF rendering, annotations, dynamic field mapping, and responsive interfaces.  
+  🔗 https://reeva.expert/  
+
+- **E-Commerce Platform**  
+  *React • Redux • TypeScript • Tailwind CSS*  
+  Modern e-commerce application with reusable components, scalable state management, and production deployment.  
+  🔗 https://my-stiqk-dawwn-ecommerce.vercel.app/  
 
 ---
 
-## 🔹 AI Land Registration System
+## 🌐 Web3 / Blockchain Projects
 
-**Tech:** React • TypeScript • Tailwind CSS
+- **Cyber Coin — Member Portal**  
+  *React • TypeScript • Wagmi • TanStack Query • Ethers.js*  
+  Production Web3 platform with wallet authentication, smart contract integration, blockchain interactions, and responsive dashboards.  
+  🔗 https://member.cybercoin.finance/  
 
-Contributed to the frontend development of an AI-powered land registration platform with PDF rendering, annotations, dynamic field mapping, and responsive interfaces.
+- **Cyber Coin Admin**  
+  *React • TypeScript • TanStack Query*  
+  Admin dashboard for managing Web3 platform operations and users.  
+  🔗 https://cyber-coin-admin.vercel.app/  
 
-🔗 https://reeva.expert/
+- **Prospera DAO**  
+  *React • TypeScript • Tailwind CSS • Wagmi*  
+  DAO platform with wallet connectivity and blockchain interaction features.  
+  🔗 https://www.prosperadao.pro/  
 
----
-
-## 🔹 Cyber Coin
-
-**Tech:** React • TypeScript • Wagmi • TanStack Query • Ethers.js
-
-Developed the frontend of a production-grade Web3 MLM member portal featuring wallet authentication, smart contract integration, blockchain interactions, and responsive dashboards.
-
-🔗 https://member.cybercoin.finance/
-
----
-
-## 🔹 Cyber Coin Admin
-
-**Tech:** React • TypeScript • TanStack Query
-
-Built a production-grade Web3 admin dashboard for platform management and blockchain-based operations.
-
-🔗 https://cyber-coin-admin.vercel.app/
+- **Prospera DAO Admin**  
+  *React • TypeScript • Ethers.js*  
+  Admin dashboard with smart contract integration and blockchain-based operations.  
+  🔗 https://prospera-admin-frontend.vercel.app/  
 
 ---
 
-## 🔹 Prospera DAO
+## 🎨 UI / Animation / Landing Pages
 
-**Tech:** React • TypeScript • Tailwind CSS • Wagmi
+- **Zeno Traders**  
+  *React • TypeScript • GSAP*  
+  High-performance landing page with smooth animations and premium UI/UX experience.  
+  🔗 https://zenotraders.com/  
 
-Developed a production-ready DAO frontend with wallet connectivity, blockchain interaction, and responsive user interfaces.
-
-🔗 https://www.prosperadao.pro/
-
----
-
-## 🔹 Prospera DAO Admin
-
-**Tech:** React • TypeScript • Ethers.js
-
-Built the frontend for an administrative dashboard with blockchain interaction, smart contract integration, and responsive UI.
-
-🔗 https://prospera-admin-frontend.vercel.app/
-
----
-
-## 🔹 E-Commerce Platform
-
-**Tech:** React • Redux • TypeScript • Tailwind CSS
-
-Modern responsive e-commerce application with reusable components, scalable state management, and production deployment.
-
-🔗 https://my-stiqk-dawwn-ecommerce.vercel.app/
-
----
-
-## 🔹 Zeno Traders
-
-**Tech:** React • TypeScript • GSAP
-
-High-performance landing page featuring smooth animations, premium user experience, and responsive layouts.
-
-🔗 https://zenotraders.com/
-
----
-
-## 🔹 GSAP Landing Page
-
-**Tech:** React • GSAP • Tailwind CSS
-
-Animation-rich responsive landing page focused on engaging user interactions and smooth transitions.
-
-🔗 https://cocktail-landing-page-tan.vercel.app/
-
----
+- **GSAP Landing Page**  
+  *React • GSAP • Tailwind CSS*  
+  Animation-rich landing page focused on smooth transitions and interactive UI.  
+  🔗 https://cocktail-landing-page-tan.vercel.app/  
 
 # 📫 Let's Connect
 
