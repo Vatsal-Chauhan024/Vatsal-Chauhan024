@@ -161,7 +161,7 @@ I have hands-on experience integrating blockchain applications on the frontend, 
 
 # 📫 Let's Connect
 
-* 🌐 Portfolio: *https://https://vatsalweb.netlify.app/*
+* 🌐 Portfolio: *https://vatsalweb.netlify.app/*
 * 💼 LinkedIn: *https://www.linkedin.com/in/vatsal-chauhan024/*
 * 📧 Email: *adarsh_vc24@yahoo.com*
 
